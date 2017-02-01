@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1485897758 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio 38\main.cpp
+	<iostream>
+	"Ordenar.h"
+
+1485897662 c:\users\omarm\dropbox\codeblocks proyects\ejercicio 38\include\ordenar.h
+
+1485897555 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio 38\src\ordenar.cpp
+	"Ordenar.h"
+	<iostream>
+
